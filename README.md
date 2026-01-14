@@ -309,9 +309,9 @@ Summary: Epoch 50 | Train Loss: 0.0018 | Val Loss: 2.0405
 ✅ Training completed. Best Val Loss: 1.6247
 ```
 
-![image-20260115045029997](assets\image-20260115045029997.png)
+![image-20260115045029997](https://github.com/LuboAB/Task2/blob/main/assets/image-20260115045029997.png?raw=true)
 
-![img](assets\loss.png)
+![img](https://github.com/LuboAB/Task2/blob/main/assets/loss.png?raw=true)
 
 **结果解读：**
 
@@ -328,5 +328,5 @@ Summary: Epoch 50 | Train Loss: 0.0018 | Val Loss: 2.0405
 *   校正：将倾斜文本旋转水平。
 *   识别：CRNN 准确输出了对应的英文和数字内容。
 
-![image-20260115045207399](assets\image-20260115045207399.png)
+![image-20260115045207399](https://github.com/LuboAB/Task2/blob/main/assets/image-20260115045207399.png?raw=true)
 
